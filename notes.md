@@ -12,3 +12,4 @@
     * Color: Light grey
   * Press release: https://corporate.evonik.com/en/media/press_releases/corporate/pages/article.aspx?articleId=106677
   * Surface reference: http://nuigroup.com/forums/viewthread/6297
+  * Comparison video: https://vimeo.com/5137562
